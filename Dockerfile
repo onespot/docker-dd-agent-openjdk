@@ -1,4 +1,4 @@
-FROM datadog/docker-dd-agent:11.0.580
+FROM datadog/docker-dd-agent:ecs
 
 ENV JAVA_VERSION 8u91
 ENV JAVA_DEBIAN_VERSION 8u91-b14-1~bpo8+1
